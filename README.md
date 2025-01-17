@@ -1,2 +1,2 @@
-# tensormaxxing
-Arrays and autodiff from scratch?
+# tropy
+A lightweight library for tropical operations on n-dimensional arrays.
